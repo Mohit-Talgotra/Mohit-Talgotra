@@ -4,8 +4,7 @@
 <h3 align="center">Machine Learning Enthusiast | VIT Vellore</h3>
 
 <p align="center">
-  <a href="https://github.com/Mohit-Talgotra"><img src="https://img.shields.io/github/followers/Mohit-Talgotra?label=Follow&style=social" /></a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-MohitTalgotra-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohit-talgotra-833984279)
+  <a href="https://www.linkedin.com/in/mohit-talgotra-833984279"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" /></a>
 </p>
 
 ---
@@ -13,8 +12,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Talgotra&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Talgotra&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Talgotra&show_icons=true&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Talgotra&layout=compact&theme=radical" width="50%"/>
 </p>
 
 ---
