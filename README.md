@@ -12,8 +12,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Talgotra&show_icons=true&theme=radical" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Talgotra&layout=compact&theme=radical" width="50%"/>
+  <img src="assets/github-stats.svg" width="50%"/>
+  <img src="assets/top-langs" width="50%"/>
 </p>
 
 ---
