@@ -13,7 +13,6 @@
 
 <p align="left">
   <img src="assets/github-stats.svg" width="50%"/>
-  <img src="assets/top-langs" width="50%"/>
 </p>
 
 ---
