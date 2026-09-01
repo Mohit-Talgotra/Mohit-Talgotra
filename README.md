@@ -15,6 +15,10 @@
   <img src="assets/github-stats.svg" width="50%"/>
 </p>
 
+<p align="left">
+  <img src="assets/top-langs.svg" width="50%"/>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools
