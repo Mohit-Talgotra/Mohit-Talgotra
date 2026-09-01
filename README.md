@@ -17,9 +17,8 @@
 
 - I’m a CS student focused on building practical machine learning and AI systems that solve real-world problems.
 - My work spans machine learning, computer vision, and data-driven automation, with experience developing scalable AI pipelines.
-- My interests include interpretable machine learning, multimodal systems, and applied AI for environmental.
-- Currently, I'm learning about reinforcement learning, and going in-depth into agentic systems.
-- Outside of tech, I game in my free time, and am a hardcore fan of the TV show Suits.
+- My interests include interpretable machine learning, multimodal systems, and applied AI for environmental and agentic AI.
+- I enjoy building end-to-end systems from data pipelines and modeling to deployment.
 
 ---
 
@@ -27,16 +26,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohit-Talgotra&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohit-Talgotra&theme=github_dark"
     width="45%"
     alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Talgotra&layout=compact&theme=radical&hide_border=true"
-    width="45%"
-    alt="Top Languages"
-  />
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit-Talgotra&theme=github_dark"
+  width="45%"
+  alt="Top Languages"
+/>
 </p>
 
 ---
