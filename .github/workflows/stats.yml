@@ -19,14 +19,14 @@ jobs:
           fetch-depth: 0
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=Mohit-Talgotra&show_icons=true&theme=radical
           path: assets/github-stats.svg
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=Mohit-Talgotra&layout=compact&theme=radical
