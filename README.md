@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Mohit Talgotra -->
 <div align="center">
-  <h1>Hi 👋, I'm Mohit Talgotra</h1>
+  <h1>Hi 👋, I'm Mohit</h1>
   <h3>Machine Learning Engineer</h3>
 
   <a href="https://www.linkedin.com/in/Mohit-Talgotra/">
