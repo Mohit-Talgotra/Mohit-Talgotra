@@ -1,24 +1,45 @@
 <!-- GitHub Profile README for Mohit Talgotra -->
+<div align="center">
+  <h1>Hi 👋, I'm Mohit Talgotra</h1>
+  <h3>Machine Learning Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Mohit Talgotra</h1>
-<h3 align="center">Machine Learning Enthusiast | VIT Vellore</h3>
+  <a href="https://www.linkedin.com/in/Mohit-Talgotra/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:work.mohittalgotra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## About Me
+
+- I’m a CS student focused on building practical machine learning and AI systems that solve real-world problems.
+- My work spans machine learning, computer vision, and data-driven automation, with experience developing scalable AI pipelines.
+- My interests include interpretable machine learning, multimodal systems, and applied AI for environmental and agentic AI.
+- I enjoy building end-to-end systems from data pipelines and modeling to deployment.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-talgotra-833984279"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" /></a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohit-Talgotra&theme=github_dark"
+    width="45%"
+    alt="GitHub Statistics"
+  />
+  <img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit-Talgotra&theme=github_dark"
+  width="45%"
+  alt="Top Languages"
+/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="assets/github-stats.svg" width="45%"/>
-  <img src="assets/top-langs.svg" width="45%"/>
-</p>
-
----
-
-### 🧰 Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -42,4 +63,8 @@
 
 ---
 
-📌 _“Code. Game. Repeat.”_
+<div align="center">
+
+### *Code. Game. Repeat*.
+
+</div>
