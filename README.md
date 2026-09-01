@@ -18,7 +18,8 @@
 - I’m a CS student focused on building practical machine learning and AI systems that solve real-world problems.
 - My work spans machine learning, computer vision, and data-driven automation, with experience developing scalable AI pipelines.
 - My interests include interpretable machine learning, multimodal systems, and applied AI for environmental and agentic AI.
-- I enjoy building end-to-end systems from data pipelines and modeling to deployment.
+- Currently, I'm learning about reinforcement learning, and going in-depth into agentic systems.
+- Outside of tech, I game in my free time, and am a hardcore fan of the TV show Suits.
 
 ---
 
