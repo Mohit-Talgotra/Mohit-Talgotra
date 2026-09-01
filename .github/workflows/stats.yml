@@ -24,6 +24,8 @@ jobs:
           card: stats
           options: username=Mohit-Talgotra&show_icons=true&theme=radical
           path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,6 +33,8 @@ jobs:
           card: top-langs
           options: username=Mohit-Talgotra&layout=compact&theme=radical
           path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit and push changes
         run: |
