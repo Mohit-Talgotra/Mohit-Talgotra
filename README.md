@@ -12,8 +12,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="assets/github-stats.svg" width="50%"/>
-  <img src="assets/top-langs.svg" width="50%"/>
+  <img src="assets/github-stats.svg" width="45%"/>
+  <img src="assets/top-langs.svg" width="45%"/>
 </p>
 
 ---
