@@ -26,12 +26,12 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohit-Talgotra&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohit-Talgotra&theme=radical"
     width="45%"
     alt="GitHub Statistics"
   />
   <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit-Talgotra&theme=github_dark"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohit-Talgotra&theme=radical"
   width="45%"
   alt="Top Languages"
 />
